@@ -3,6 +3,7 @@
 #teinf-20
 #2022 VT
 
+from re import M
 import time
 
 
@@ -16,4 +17,4 @@ def display_text(strt, target, current, Wpm=0):
     strtmen.addstr(1, 0 , f"Wpm): {Wpm}")
 
 for i, char in enumerate(current):
-    current_char 
+    current_char M
