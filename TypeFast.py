@@ -3,18 +3,21 @@
 #teinf-20
 #2022 VT
 
-from re import M
-import time
+import curses
+from curses import wrapper
 
 
-def startmenu(strtmen):
-    strtmen.clear()
-    strtmen.addstr("Welcome to TypeFast :-)")
-    strtmen.addstr("press N to start a race")
+def main(stdscr):
+    curses.init_pair(1, curses.COLOR_WHITE, curses.COLOR_YELLOW) #detta skapar en bakrunds färg så det är  vit text och gul bakrund 
 
-def display_text(strt, target, current, Wpm=0):
-    strtmen.addstr(target)
-    strtmen.addstr(1, 0 , f"Wpm): {Wpm}")
+    stdscr.clear()
+    stdscr.addstr(3, 45, "wellcome to FastType", curses.color_pair(1))
+    stdscr.addstr(5, 49,"\npress any key to begin ", curses.COLOR_RED)
+    stdscr.refresh()
+    stdscr.getkey() #registerar vad du trycker på
+    
+    
 
-for i, char in enumerate(current):
-    current_char 
+
+
+wrapper(main)
