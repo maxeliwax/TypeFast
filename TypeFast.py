@@ -24,6 +24,12 @@ def wpm_test(stdscr):
     stdscr.addstr(10,50,target_sentense, curses.color_pair(2)) #skriver ut target_sentense på plats 10 vertical 50 horisontellt 
     stdscr.refresh()
     stdscr.getkey()
+    while True:
+    
+   
+
+    if c == 'q':
+        break
 
 def main(stdscr):
     curses.init_pair(1, curses.COLOR_WHITE, curses.COLOR_YELLOW) #detta skapar en bakrunds färg så det är  vit text och gul bakrund 
