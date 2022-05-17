@@ -36,12 +36,14 @@ _______ATT GÖRA/PLAN_____________
 __________________________________
 __________Ändringar_______________
 1.0 la till en meny
-1.2 la in loops som kolla hur snabbt du skrive
+1.2 la in loops som kolla hur snabbt du skriver
 1.3 gör att du kan köra flera rundor på rad utan att avsluta
-1.4 la till att du kan trycka enter utan att skriva en bokstav för att gå ut ur rundan 
+1.4 la till att du kan trycka enter utan att skriva en bokstav för att gå ut ur rundan
+1.5 Programmet är färdigt med filhantering random mening funkar
 __________________________________
 __________ATT BIDRA_______________
 ATT FLER SKA KUNNA SKRIVA SNABBARE PÅ TANIGENTBORD PÅ ETT SNABBT OCH ENKELT SÄTT 
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/95760935/168910080-f5df1e3f-99de-40eb-ac4f-ce1ffb8a48ab.gif)
 __________________________________
 ____________LICENS________________
 MIT](https://choosealicense.com/licenses/mit/)
@@ -52,9 +54,13 @@ instagram maxwalldov
 snap max.walldov
 __________________________________
 _______________Erkänanden__________
-Pappa hjälpte mig med delen som man ska mäta words per minute 
-https://www.youtube.com/watch?v=NQ5i1kJAA6Y&t=1463s denna videon hjälpte mig med curses
+Pappa hjälpte mig med loop delen som  mäter WPM 
+https://www.youtube.com/watch?v=NQ5i1kJAA6Y&t=1463s denna videon hjälpte mig med curses när jag använde det sen så tog jag bort curses för att det blev för kompliserat och för jobbigt 
+https://www.w3schools.com/python/python_file_open.asp denna hjälpte mig med filhantering 
+https://www.programiz.com/python-programming/time denna hjälpte mig med tid 
+https://www.w3schools.com/python/ref_random_shuffle.asp hur jag skulle få det att bli random mening från filen 
 ____________________________________
+
 
 
 
