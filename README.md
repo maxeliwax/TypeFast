@@ -1,3 +1,5 @@
+
+________________TYPEFAST______________________________
 # TypeFast
 Ett program som mäter hur snabbt du skriver.
 
@@ -60,8 +62,9 @@ ___________KONTAKT________________
 DISCORD pax#4243
 instagram maxwalldov
 snap max.walldov
+__________________________________
 _______________Erkänanden__________
-Pappa hjälpte mig med delen som man ska mäta words per minute '
+Pappa hjälpte mig med delen som man ska mäta words per minute 
 https://www.youtube.com/watch?v=NQ5i1kJAA6Y&t=1463s denna videon hjälpte mig med curses
 ____________________________________
 
