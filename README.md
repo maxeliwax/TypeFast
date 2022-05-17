@@ -6,15 +6,10 @@ Ett program som mäter hur snabbt du skriver.
 __________SPRÅK_______________ 
 
 skrivet i python 
-
-
-main meny: skriven med curses (ett pluggin till python)
-resten: Python 
-
+Allt är skrivet i python
 _______________________________
 ____________KRAV_______________
 -Python 3.7+
--Curses
 _______________________________
 _________INSTALLATION__________
 installera Python
@@ -29,12 +24,6 @@ installera Python
 8. Öppna Kommandotolken
 9. Skriv  "pip –V" sen tryck enter 
 ifall det står pip och sen ett versions nummer så är PIP installerat
-
-Installera curses
-1. Öppna kommandotolken 
-2. skriv "pip install windows-curses"
-3. låt den gå igenom installation procesen 
-nu är allt installerat
 ________________________________
 ___________ANVÄNDING____________
 Programmet ska användas ifall du vill se hur snabbt du skriver
@@ -47,7 +36,6 @@ _______ATT GÖRA/PLAN_____________
 __________________________________
 __________Ändringar_______________
 1.0 la till en meny
-1.1 la till curses för att göra menyn snyggare 
 1.2 la in loops som kolla hur snabbt du skrive
 1.3 gör att du kan köra flera rundor på rad utan att avsluta
 1.4 la till att du kan trycka enter utan att skriva en bokstav för att gå ut ur rundan 
