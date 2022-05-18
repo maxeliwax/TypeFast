@@ -59,6 +59,28 @@ https://www.youtube.com/watch?v=NQ5i1kJAA6Y&t=1463s denna videon hjälpte mig me
 https://www.w3schools.com/python/python_file_open.asp denna hjälpte mig med filhantering 
 https://www.programiz.com/python-programming/time denna hjälpte mig med tid 
 https://www.w3schools.com/python/ref_random_shuffle.asp hur jag skulle få det att bli random mening från filen 
+
+folk som har bidragit med meningar 
+Emil 
+Adam
+Eliott
+Alexis
+Albion
+Pontus
+Albin 
+Maurits
+Tim
+gustav
+victor
+Kuba
+lukas
+ellen
+mikki
+jakob
+jasmina
+daniella
+pappa
+
 ____________________________________
 
 
