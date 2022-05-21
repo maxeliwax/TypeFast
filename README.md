@@ -35,11 +35,11 @@ ATT GÖRA/PLAN
 -[] Göra read me på engelska
 
 Ändringar
--1.0 la till en meny
--1.2 la in loops som kolla hur snabbt du skriver
--1.3 gör att du kan köra flera rundor på rad utan att avsluta
--1.4 la till att du kan trycka enter utan att skriva en bokstav för att gå ut ur rundan
--1.5 Programmet är färdigt med filhantering random mening funkar
+- 1.0 la till en meny
+- 1.2 la in loops som kolla hur snabbt du skriver
+- 1.3 gör att du kan köra flera rundor på rad utan att avsluta
+- 1.4 la till att du kan trycka enter utan att skriva en bokstav för att gå ut ur rundan
+- 1.5 Programmet är färdigt med filhantering random mening funkar
 
 ATT BIDRA
 ATT FLER SKA KUNNA SKRIVA SNABBARE PÅ TANIGENTBORD PÅ ETT SNABBT OCH ENKELT SÄTT 
