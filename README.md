@@ -46,19 +46,19 @@ ATT FLER SKA KUNNA SKRIVA SNABBARE PÅ TANIGENTBORD PÅ ETT SNABBT OCH ENKELT S�
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/95760935/168910080-f5df1e3f-99de-40eb-ac4f-ce1ffb8a48ab.gif)
 
 LICENS
-MIT](https://choosealicense.com/licenses/mit/)
+- MIT](https://choosealicense.com/licenses/mit/)
 
 KONTAKT
-DISCORD pax#4243
-instagram maxwalldov
-snap max.walldov
+- DISCORD pax#4243
+- instagram maxwalldov
+- snap max.walldov
 
 Erkänanden
-Pappa hjälpte mig med loop delen som  mäter WPM 
-https://www.youtube.com/watch?v=NQ5i1kJAA6Y&t=1463s denna videon hjälpte mig med curses när jag använde det sen så tog jag bort curses för att det blev för kompliserat och för jobbigt 
-https://www.w3schools.com/python/python_file_open.asp denna hjälpte mig med filhantering 
-https://www.programiz.com/python-programming/time denna hjälpte mig med tid 
-https://www.w3schools.com/python/ref_random_shuffle.asp hur jag skulle få det att bli random mening från filen 
+- Pappa hjälpte mig med loop delen som  mäter WPM 
+- https://www.youtube.com/watch?v=NQ5i1kJAA6Y&t=1463s denna videon hjälpte mig med curses när jag använde det sen så tog jag bort curses för att det blev för - - --kompliserat och för jobbigt 
+- https://www.w3schools.com/python/python_file_open.asp denna hjälpte mig med filhantering 
+- https://www.programiz.com/python-programming/time denna hjälpte mig med tid 
+- https://www.w3schools.com/python/ref_random_shuffle.asp hur jag skulle få det att bli random mening från filen 
 
 folk som har bidragit med meningar 
 - Emil 
