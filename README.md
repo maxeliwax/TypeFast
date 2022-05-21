@@ -5,11 +5,11 @@ Ett program som mäter hur snabbt du skriver.
 
 SPRÅK
 
-skrivet i python 
-Allt är skrivet i python
+- skrivet i python 
+- Allt är skrivet i python
 
 KRAV
--Python 3.7+
+- Python 3.7+
 
 INSTALLATION
 installera Python
@@ -61,25 +61,25 @@ https://www.programiz.com/python-programming/time denna hjälpte mig med tid
 https://www.w3schools.com/python/ref_random_shuffle.asp hur jag skulle få det att bli random mening från filen 
 
 folk som har bidragit med meningar 
-Emil 
-Adam
-Eliott
-Alexis
-Albion
-Pontus
-Albin 
-Maurits
-Tim
-gustav
-victor
-Kuba
-lukas
-ellen
-mikki
-jakob
-jasmina
-daniella
-pappa
+- Emil 
+- Adam
+- Eliott
+- Alexis
+- Albion
+- Pontus
+- Albin 
+- Maurits
+- Tim
+- gustav
+- victor
+- Kuba
+- lukas
+- ellen
+- mikki
+- jakob
+- jasmina
+- daniella
+- pappa
 
 
 
