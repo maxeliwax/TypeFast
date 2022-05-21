@@ -1,5 +1,4 @@
 
-TYPEFAST
 # TypeFast
 Ett program som mäter hur snabbt du skriver.
 
